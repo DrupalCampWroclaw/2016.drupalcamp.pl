@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.2016.drupalcamp.pl/" xmlns:atom="http://www.w3.org/2005/Atom"> <channel> <title>DrupalCamp Wrocław</title>
+ <link>http://www.2016.drupalcamp.pl/</link>
+ <atom:link rel="self" href="http://www.2016.drupalcamp.pl/rss.xml" />
+ <language>pl</language>
+ <pubDate>Fri, 18 Nov 2016 09:06:55 +0100</pubDate>
+ <lastBuildDate>Fri, 18 Nov 2016 09:06:55 +0100</lastBuildDate>
+ <item> <title>DrupalCamp 2017</title>
+ <link>http://www.2016.drupalcamp.pl/node/292</link>
+ <description>Kolejna edycja konferencji odbędzie się w dniach 27-28.05.2017. Na początku 2017 roku uruchomimy nową stronę internetową dla konferencji i na niej będziemy informować o szczegółach. 
+</description>
+ <pubDate>Fri, 18 Nov 2016 09:06:55 +0100</pubDate>
+ <source url="http://www.2016.drupalcamp.pl/rss.xml">DrupalCamp Wrocław</source>
+</item>
+ <item> <title>To już 5 lat! Zakończyliśmy kolejną konferencję DrupalCamp Wrocław</title>
+ <link>http://www.2016.drupalcamp.pl/node/291</link>
+ <description>Dziękujemy wszystkim za udział w konferencji, szczególnie osobom zaangażowanym w organizację konferencji. Zebraliśmy sporo opinii od uczestników i w przyszłym roku postaramy się zrobić jeszcze lepszą konferencję!
+Nagranie wideo w wersji nieobrobionej jest dostępne na profilu https://www.youtube.com/channel/UCNGBIgA6MfqV5EiIAbmm2lw 
+Niedługo przygotujemy wideo z podziałem na poszczególne filmiki. Pojawi się też więcej zdjęć w galerii w serwisie Flickr.
+Zapraszamy za rok!
+ 
+</description>
+ <pubDate>Tue, 24 May 2016 10:05:28 +0200</pubDate>
+ <source url="http://www.2016.drupalcamp.pl/rss.xml">DrupalCamp Wrocław</source>
+</item>
+ <item> <title>Za 6 dni startujemy z kolejną konferencją DrupalCamp!</title>
+ <link>http://www.2016.drupalcamp.pl/node/290</link>
+ <description>Już tylko 6 dni zostało do rozpoczęcia konferencji DrupalCamp we Wrocławiu. Plan konferencji został ustalony, znamy także miejsce Drupal Party czyli imprezy integracyjnej, na której sponsorzy przewidzieli darmowe piwo :)
+</description>
+ <pubDate>Sun, 15 May 2016 19:11:07 +0200</pubDate>
+ <source url="http://www.2016.drupalcamp.pl/rss.xml">DrupalCamp Wrocław</source>
+</item>
+ <item> <title>Wesprzyj konferencję i odbierz koszulkę, kufel lub kubek z logo Drupala i DrupalCamp</title>
+ <link>http://www.2016.drupalcamp.pl/node/279</link>
+ <description>Od wczoraj trwa akcja w serwisie crowdfundingowym wspieram.to mająca pomóc w organizacji konferencji. Każda nawet najmniejsza pomoc się liczy. Zapraszamy po więcej szczegółów na stronę https://wspieram.to/projekt/6493/5-edycja-najwiekszej-imprezy-drupalowej-w-polsce
+</description>
+ <pubDate>Tue, 26 Apr 2016 13:27:46 +0200</pubDate>
+ <source url="http://www.2016.drupalcamp.pl/rss.xml">DrupalCamp Wrocław</source>
+</item>
+ <item> <title>Nagrody dla uczestników od wydawnictwa Helion</title>
+ <link>http://www.2016.drupalcamp.pl/node/274</link>
+ <description>Wydawnictwo Helion wspiera nas od pierwszej edycji konferencji w postaci nagród rzeczowych, nie zabraknie ich także w najbliższej edycji konferencji DrupalCamp. Dla uczestników konferencji będą do wygrania:
+- 2 x ebook &quot;Drupal 7. Zaawansowane programowanie&quot;
+- 2 x kurs online wideo &quot;Drupal 7. Kurs video. Poziom pierwszy. Szybkie tworzenie stron internetowych&quot;
+- 2 x kurs online wideo &quot;Drupal 7. Kurs video. Poziom drugi. Zaawansowane moduły, skórki i patche&quot;
+Wymogiem otrzymania nagród jest rejestracja na stronie przed rozpoczęciem konferencji. Zapraszamy!
+</description>
+ <pubDate>Fri, 15 Apr 2016 10:09:59 +0200</pubDate>
+ <source url="http://www.2016.drupalcamp.pl/rss.xml">DrupalCamp Wrocław</source>
+</item>
+ <item> <title>Miejsce konferencji</title>
+ <link>http://www.2016.drupalcamp.pl/node/263</link>
+ <description>W 2016 roku konferencja odbędzie się w hotelu Ibis Styles we Wrocławiu przy placu Konstytucji 3 Maja 3 (obok dworca PKP).
+</description>
+ <pubDate>Mon, 29 Feb 2016 16:31:33 +0100</pubDate>
+ <source url="http://www.2016.drupalcamp.pl/rss.xml">DrupalCamp Wrocław</source>
+</item>
+ <item> <title>DrupalCamp 2016 </title>
+ <link>http://www.2016.drupalcamp.pl/node/262</link>
+ <description>Kolejna edycja konferencji DrupalCamp odbędzie się w dniach 21-22.05.2016 we Wrocławiu. Wkrótce uruchomimy nową wersję strony i opublikujemy więcej inforamcji o konferencji.
+</description>
+ <pubDate>Tue, 09 Feb 2016 11:28:00 +0100</pubDate>
+ <source url="http://www.2016.drupalcamp.pl/rss.xml">DrupalCamp Wrocław</source>
+</item>
+</channel>
+</rss>
